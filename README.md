@@ -4,7 +4,7 @@ A full-stack URL shortening application built using Spring Boot that converts lo
 
 ## Live Demo
 
-[Try the Application](https://url-shortener-smpa.onrender.com)
+[Try the Application](https://url-shortener-wfkn.onrender.com/)
 
 ## Features
 
